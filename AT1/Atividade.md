@@ -36,7 +36,7 @@ Na classe `Serie`, sobrescreve o método `reproduzir`:
 * **Se** o plano do usuário for `"Plus"`: Exibir "Reproduzindo [Titulo]...".
 * **Caso contrário**: Exibir "Acesso negado: Conteúdo não permitido para seu plano.".
 
-### Passo 5: Teste do Sistema
+### Passo 6: Teste do Sistema
 Crie uma classe `Principal` (ou `Main`) e execute os seguintes testes:
 1.  Instancie um `Filme` (ex: "O Poderoso Chefão", 18 anos, "Básico").
 2.  Instancie uma `Serie` (ex: "Bluey", Livre/0 anos, "Plus").
