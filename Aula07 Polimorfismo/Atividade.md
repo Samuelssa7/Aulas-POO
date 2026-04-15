@@ -24,7 +24,6 @@ Vamos criar um sistema de gestão universitária que será implantado em etapas.
 3. **Criar a classe `Professor`**, filha de `Funcionario`, com os métodos necessários e os seguintes requisitos:
    * **Atributos:**
        - `bonus`
-       - `idFuncionario`
    * **Método:**
        - `receberSalario()`: deve sobrescrever `receberSalario()` e manter a lógica original acrescentando também o bônus na conta bancária.
 
