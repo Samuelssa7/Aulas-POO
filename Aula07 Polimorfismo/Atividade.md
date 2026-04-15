@@ -16,9 +16,9 @@ Vamos criar um sistema de gestão universitária que será implantado em etapas.
    * **Atributos:**
        - `idFuncionario`
        - `salario`
-       - `contaBancaria`
+       - `saldoContaBancaria`
    * **Método:**
-       - `receberSalario()`: deve incrementar `contaBancaria` com o valor do salário do funcionário.
+       - `receberSalario()`: deve incrementar `saldoContaBancaria` com o valor do salário do funcionário.
 
 
 3. **Criar a classe `Professor`**, filha de `Funcionario`, com os métodos necessários e os seguintes requisitos:
