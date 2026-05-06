@@ -42,7 +42,7 @@ public class Aluno extends Pessoa {
 
     // Matricula em materia Obrigatoria com carga horaria padrao (60) passando apenas o nome
     public Materia matricularMateria(String nome) {
-        Materia m = new Materia(nome, "Obrigatoria", 60, 1003);
+		Materia m = new Materia(nome, "Obrigatoria", 60, 1003);
 		return m;
         
 		// comando para atribuir a matéria ao aluno (retorno poderia ser void)

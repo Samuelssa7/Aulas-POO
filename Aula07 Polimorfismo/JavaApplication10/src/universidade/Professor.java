@@ -30,7 +30,7 @@ public class Professor extends Funcionario {
         saldo += this.bonus;
         setSaldoContaBancaria(saldo);
         return saldo;
-
+		
         /* Outra abordagem:
         * this.saldoContaBancaria += super.receberSalario() + this.bonus;
         * return this.saldoContaBancaria;

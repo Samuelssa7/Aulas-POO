@@ -13,7 +13,8 @@ public class Materia {
     */
     
     // public Materia() {}
-
+	
+	
     public Materia(String nome, String tipo, int quantidadeHoras, int idFuncionario) {
         this.nome = nome;
         this.tipo = tipo;
