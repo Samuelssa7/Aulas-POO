@@ -1,0 +1,11 @@
+isbn,titulo,autor,ano,disponivel
+978-8533619111,Aprendendo Java,Carlos Silva,2018,true
+978-8576089876,POO em Ação,Maria Oliveira,2019,true
+978-8501071234,Algoritmos e Estruturas,Pedro Santos,2015,true
+978-8550801230,Programacao Avancada,Ana Costa,2020,false
+978-8575220099,Design de Software,Joao Souza,2017,true
+978-8582600001,Banco de Dados Moderno,Mariana Lima,2016,true
+978-8576089838,Redes de Computadores,Paulo Nunes,2014,false
+978-8533619005,Introducao a Computacao,Lucas Pereira,2013,true
+978-8575220105,Tecnicas de Teste,Rita Fernandes,2021,true
+978-8576089807,Engenharia de Software,Roberto Alves,2012,true
